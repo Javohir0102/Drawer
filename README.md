@@ -36,3 +36,8 @@ We use `try and catch` operation, `do while` operation and three methods
     }
     while (selectedShape == 1 || selectedShape == 2 || selectedShape == 3);
 
+![Triangle](https://github.com/Javohir0102/Drawer/blob/main/Asset/Triangle.png)
+
+![Square](https://github.com/Javohir0102/Drawer/blob/main/Asset/Square.png)
+
+![Hexagon](https://github.com/Javohir0102/Drawer/blob/main/Asset/Hexagon.png)
